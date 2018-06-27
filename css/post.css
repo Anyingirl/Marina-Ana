@@ -1,0 +1,22 @@
+.text {
+color: green;
+text-align: center;
+}
+.blackcenter{
+  text-align: center;
+}
+.textandmargins {
+  margin: 100px
+}
+.image {
+  text-align: center;
+}
+.body {
+  background-color: #FBEEE6;
+}
+.title {
+color: green;
+text-align: center;
+font-size: 30px;
+font-style: italic;
+}
